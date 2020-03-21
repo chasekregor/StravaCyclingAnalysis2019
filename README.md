@@ -46,9 +46,9 @@ I have been using [Strava](www.strava.com) to house all of my cycling data since
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Modify credentials.py with your own [client ID and client Secret](https://www.strava.com/settings/api).  
-    
-3. Run 2020-01-29-analysis.ipynb
-4. Click on the link in the second cell, replace the code variable with the string you see in the URL, then execute the rest of the notebook.
+3. pip install requirements.txt 
+4. Run 2020-01-29-analysis.ipynb
+5. Click on the link in the second cell, replace the code variable with the string you see in the URL, then execute the rest of the notebook.
 
 5. Consult [David Yang's Download Running Data From Strava to Analyze Yourself](https://medium.com/@xdyang70/running-data-analysis-61ac6b08945c) if you have any issues or contact me. 
 
