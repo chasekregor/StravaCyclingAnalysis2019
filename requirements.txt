@@ -2,7 +2,7 @@ altair==3.2.0
 altair-data-server==0.4.1
 altair-saver==0.3.0
 altair-viewer==0.2.1
-jupyterlab==2.0.1
+jupyterlab==2.2.10
 notebook==6.0.3
 numpy==1.17.2
 numpydoc==0.9.1
