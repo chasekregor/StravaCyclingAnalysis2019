@@ -4,7 +4,7 @@ altair-saver==0.3.0
 altair-viewer==0.2.1
 jupyterlab==2.0.1
 notebook==6.0.3
-numpy==1.17.2
+numpy==1.22.0
 numpydoc==0.9.1
 pandas==0.25.1
 path.py==12.0.1
